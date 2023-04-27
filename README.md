@@ -16,11 +16,15 @@ The motor speed is controlled by sending a PWM signal to the servo motor using t
 
 # Cunnection 👈
 
--   Arduino         MQ135         Servo 1 & 2
--   pin9             -              pwn pin
--   pin10            -              pwn pin
--    A0              A0               -
--    6v              5v            6v-12v DC     
+-   Arduino                        MQ135                   Servo 1 & 2
+
+-   pin9                            -                      pwn pin
+
+-   pin10                           -                      pwn pin
+
+-    A0                             A0                        -
+
+-    6v                             5v                     6v-12v DC     
 
 # Getting started
 To use this project, you will need an Arduino Uno, an MQ-135 sensor, a servo motor, and jumper wires. Follow these steps to get started:

@@ -1,4 +1,4 @@
-# Alcohol Detection Vehicle Control System
+# Alcohol Detection Vehicle Control System 🚗🚑
 This is a project that uses an MQ-135 sensor and a servo motor to control the speed of a vehicle based on the alcohol percentage detected from the driver's breath.
 
 # Components

@@ -1,3 +1,5 @@
+//hlw guys amit this side, welcome to my world #use and enjoy 
+
 #include <Servo.h> //include the Servo library
 
 Servo myservo1;  //create a servo object
@@ -44,7 +46,7 @@ void loop()
   myservo1.write(motorSpeed1); //set motor 1 speed
   myservo2.write(motorSpeed2); //set motor 2 speed
 
-  Serial.print("Alcohol Percentage: ");
+  Serial.print("Alcohol Percentage: ");  // Serial monitor display part 
   Serial.print(alcoholPercentage);
   Serial.print("%, ");
   Serial.print("Motor Speed: ");

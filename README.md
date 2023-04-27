@@ -14,17 +14,17 @@ If the alcohol percentage is between 5% and 10%, the motor speed is reduced by 6
 
 The motor speed is controlled by sending a PWM signal to the servo motor using the write() function. The motor speed and alcohol percentage are displayed on the serial monitor.
 
-# Cunnection 👈
+--------------   Cunnection 👈-------------
 
--   Arduino                        MQ135                   Servo 1 & 2
+_             Arduino                        MQ135                   Servo 1 & 2
 
--   pin9                            -                      pwn pin
+_               pin9                            -                      pwn pin
 
--   pin10                           -                      pwn pin
+-               pin10                           -                      pwn pin
 
--    A0                             A0                        -
+-                A0                             A0                        -
 
--    6v                             5v                     6v-12v DC     
+-                6v                             5v                     6v-12v DC     
 
 # Getting started
 To use this project, you will need an Arduino Uno, an MQ-135 sensor, a servo motor, and jumper wires. Follow these steps to get started:
